@@ -70,6 +70,10 @@ brainjack/
 - `POST /v1/responses`
 - `POST /v1/messages`
 
+## 라이선스
+
+MIT
+
 ## 면책
 
 이 프로젝트의 사용에 대한 책임은 사용자에게 있습니다.
